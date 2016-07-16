@@ -1,0 +1,38 @@
+--Wie Kann Man Mathematik Mithilfe Eines Spieles Darstellen?
+
+Vielen Schülern liegt das Fach Mathematik im Allgemeinen nicht. Meiner Ansicht nach liegt das hauptsächlich daran, dass die Schüler die Grundrechengesetze und Operationen nicht beherrschen oder das kombinatorische Denken nicht geübt haben. Um diese Fä-higkeiten zu verbessern und zu routinieren, ist es mein Ziel, ein Spiel auf die Beine zu stellen, dass in vielen vorgefertigten, entfernt Sudoku ähnlichen Leveln das logische Denken und Kombinieren stählt. Das Spiel soll einfach beginnen und -mit der Zeit ziemlich anspruchsvoll sein, da die Level immer mehr verknüpft und grösser werden. Zudem nimmt die Anzahl verschiedener möglicher Kombinationen stetig zu, da mehr Auswahl an Operationen zur Verfügung stehen wird. Zu den wichtigsten Operationen gehören Plus, Minus, Mal, Geteilt, Potenzieren, Wurzeln. Eventuell auch Fakultäten.
+
+Ein Nebenaspekt dieses Projektes ist es, zu erfahren, wie weit es möglich ist, via Tutorials (haupsächlich auf Youtube) das Programmieren zu erlernen. 
+
+--Darstellung:
+
+Die einzelnen Level sind im Grundprinzip sehr dem Spiel Tetris ähnlich. Man hat das typische Tetris-Feld mit einer Gleichung oder einer geometrischen Form unten, in der gewisse Teile fehlen. Nun fallen von oben einzelne Zahlen, Operationen oder geometrische Formen herab. Einige sind nützlich, um die Gleichung zu vervollständigen, andere nicht und müssen durch einen Fingerswip entfernt werden. Wenn ein Element den Boden erreicht, wird es in die Gleichung integriert und überprüft, ob die Gleichung überhaupt noch vervollständigbar ist mit den übergrigen Elementen. Mit dem Finger kann man die Elemente auch direkt auf das entsprechende Feld in der Gleichung ziehen, um den Vorgang zu beschleunigen. Jenachdem, mit welchen ELementen man startet ergeben sich verschiedene Lösungswege, auch wenn die einzelnen Level und deren ELemente vorgegeben sind und nicht zufällig erwählt werden. Zufällig wird lediglich sein, welche Element aus der Liste wann im Bildschirm auftauchen und beginnen zu fallen. 
+
+--Das Projekt ist gelungen, wenn...
+
+...zwischen den einzelnen Leveln (auf Papier, nicht ungedingt programmiert, es soll nicht Teil der Arbeit sein, alles Level einzuprogrammieren, aber ein erweiterbares Grundgesrüst zu schaffen) die Schwierigkeit merklich zunimmt
+...die Grundlage des Spiels programmiert ist und funktioneiert
+...dem Spiel jederzeit neue Level hinzugefügt werden können. 
+...das Spiel nicht zu langweilig und repetitiv ist.
+
+--Meilensteine:
+
+1. Meilenstein(Ende Sommerferien):
+Ich habe mich mit Python, Kivy, Timeline, Git und den Terminal auseinandergesetzt. (via Tutorials)
+
+2. Meilenstein(bis Mitte Oktober):
+Nachweisslicher Fortschritt in Codecademy
+
+3. Meilenstein(erste Herbstferienwoche):
+Grundzüge des SPiels mit den ELementen programmiert
+
+4. Meilenstein(zweite Herbstferienwoche):
+erste 10 Levels erstellt
+
+5. Meilenstein(November):
+Testphase mit Kollegen, Bugfixes,(+Levelideen)
+
+6. Meilenstein(Dezember):
+Dokumentation fertiggestellt und abgabefertig.
+
+7. Abgabe(spätestens 22.Dez.16)
